@@ -86,3 +86,6 @@ Istio is often described in terms of a **control plane** and a **data plane**. T
 
 Overall, Istio’s architecture helps ensure **standardized, secure, and observable** communication across all your microservices.
 
+
+![image](https://github.com/user-attachments/assets/a84378e3-d298-497d-85d2-6d5889874d67)
+
