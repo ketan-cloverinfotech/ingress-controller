@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a84378e3-d298-497d-85d2-6d5889874d67)
+
+
 # Istio Architecture Explained (with Simple Examples)
 
 Istio is often described in terms of a **control plane** and a **data plane**. Think of the **data plane** as the part of the system that actually handles (and secures) your services’ traffic, and the **control plane** as the “brain” that configures and manages the data plane.
@@ -87,5 +90,5 @@ Istio is often described in terms of a **control plane** and a **data plane**. T
 Overall, Istio’s architecture helps ensure **standardized, secure, and observable** communication across all your microservices.
 
 
-![image](https://github.com/user-attachments/assets/a84378e3-d298-497d-85d2-6d5889874d67)
+
 
